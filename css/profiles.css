@@ -1,0 +1,13 @@
+main, body {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-title {
+    background-color: #003366;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: white;
+}
+
