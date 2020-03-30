@@ -1,0 +1,9 @@
+.nav-style {
+    transition: top 0.3s;
+    position: fixed; 
+    top: 0;
+}
+
+.bg-nav-transparent {
+    background-color: rgba(0, 0, 0, 0.4);
+}
